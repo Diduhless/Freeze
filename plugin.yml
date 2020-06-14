@@ -1,0 +1,6 @@
+name: Freeze
+main: Freeze\Freeze
+version: 0.0.1
+author: Didah (@Diduhless)
+description: A freeze plugin for PocketMine-MP servers
+api: [3.0.0]
